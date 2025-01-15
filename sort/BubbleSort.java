@@ -1,6 +1,7 @@
 package sort;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class BubbleSort {
   public final int[] result;
